@@ -1,0 +1,2 @@
+com\example\keycloak\MyEventListenerProvider.class
+com\example\keycloak\MyEventListenerProviderFactory.class
